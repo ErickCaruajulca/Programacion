@@ -1,4 +1,3 @@
-print ("Hola mundo")
 print("Complejidad algorítmica:")
 print("T(n) = n + 3 + n(n-1)/2")
 
